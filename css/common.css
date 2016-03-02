@@ -1,0 +1,81 @@
+
+
+body {
+    font-size : 100%;
+    font-size: 1.2rem;
+    color : #333;
+    line-height: 1.555555;
+    word-wrap: break-word;
+}
+
+a {
+    color: #ff9900;
+    text-decoration: none;
+}
+
+p {
+	max-width: 100%;
+	max-height: 100%;
+	overflow: hidden;
+}
+
+h1, .h1{
+	font-size: 2.0rem;
+}
+
+h2, .h2{
+	font-size: 1.8rem;
+}
+
+h3, .h3{
+	font-size: 1.6rem;
+}
+
+h4, .h4{
+	font-size: 1.4rem;
+}
+
+h5, .h5{
+	font-size: 1.2rem;
+}
+
+p {
+	font-size: 1rem;
+}
+
+.img_area {
+    background-color:#f6f6f6;
+}
+
+._emotion {
+    max-width:2rem;
+}
+
+.imgWidth {
+	max-width: 100%;
+}
+
+.img_area {
+		max-width: 320px;
+	}
+/* 手机320*359手持设备 */
+@media screen and (min-width: 320px) and (max-width: 359px) {
+
+}
+
+/* 手机360*479手持设备 */
+@media screen and (min-width: 360px) and (max-width: 479px) {
+
+}
+
+/* 手机480*800手持设备 */
+@media screen and (min-width: 480px) and (max-width: 800px) {
+
+}
+
+
+/* 平板之类的宽度 1024 以下设备 */
+@media only screen and (min-width: 321px) and (max-width: 1024px) {
+
+
+}
